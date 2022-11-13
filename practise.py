@@ -2,7 +2,7 @@
 DATE=13TH NOV 2022
 DAY= sunday
 TOPIC= STRINGS 2
-AUTHOR= KIRANMAI
+AUTHOR= POOJA
 '''
 #a=int()
 #print(a,type(a)
